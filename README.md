@@ -7,7 +7,9 @@ Anggota :
 3. M. Raihan Alfareza
 
 Project Kalkulator IMT menggunakan php.
+
 1.Deskripsi. 
+
 Indeks Massa Tubuh (IMT) atau Body Mass Index (BMI) merupakan indikator sederhana dari korelasi antara tinggi,berat badan, jenis kelamin serta usia seseorang. IMT   digunakan untuk mengukur ideal atau tidaknya berat badan. Perlu diingat bahwa berat badan ideal setiap orang berbeda-beda. Oleh karena itu, cara untuk tahu apakah     berat badan tergolong ideal atau tidak yaitu dengan mengetahui IMT atau BMI. Jika IMT di atas 25 maka termasuk gemuk dan jika IMT di bawah 18,5 maka termasuk kurus.    Semakin tinggi angka IMT, semakin tinggi pula risiko untuk menderita penyakit tertentu. IMT bukanlah pengukuran yang akurat karena tidak bisa menjelaskan secara detail mengenai masalah berat badan seseorang. Hasil perhitungan IMT juga tidak dapat memperhitungkan lemak dalam tubuh untuk mengukur risiko penyakit kronis. Namun, angka    IMT bisa menjadi peringatan bagi seseorang untuk menjaga berat badan normal agar hidup lebih sehat.
 
 
