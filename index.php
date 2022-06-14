@@ -76,7 +76,7 @@
                     <!-- nama -->
                     <div class="nama mt-1">
                         <label for="nama" class="form-label fw-bold">Nama Lengkap</label>
-                        <input class="form-control bg-warning border-dark" type="text" placeholder="Nama Lengkap" name="nama">
+                        <input class="form-control bg-warning border-dark" type="text" placeholder="Nama Lengkap" name="nama" id="nama">
                     </div>
                     <!-- end -->
                     
@@ -97,21 +97,21 @@
                     <!-- usia -->
                     <div class="usia mt-1">
                         <label for="usia" class="form-label fw-bold">Usia</label>
-                        <input class="form-control bg-warning border-dark" type="text" placeholder="Usia" name="usia">
+                        <input class="form-control bg-warning border-dark" type="text" placeholder="Usia" name="usia" id="usia">
                     </div>
                     <!-- end -->
                     
                     <!-- berat -->
                     <div class="berat mt-1">
                         <label for="berat" class="form-label fw-bold">Berat Badan (Kg)</label>
-                        <input class="form-control bg-warning border-dark" type="text" placeholder="Berat Badan (Kg)" name="bb">
+                        <input class="form-control bg-warning border-dark" type="text" placeholder="Berat Badan (Kg)" name="bb" id="berat">
                     </div>
                     <!-- end -->
                     
                     <!-- tinggi -->
                     <div class="tinggi mt-1">
                         <label for="tinggi" class="form-label fw-bold">Tinggi Badan (Cm)</label>
-                        <input class="form-control bg-warning border-dark" type="text" placeholder="Tinggi Badan (Cm)" name="tb">
+                        <input class="form-control bg-warning border-dark" type="text" placeholder="Tinggi Badan (Cm)" name="tb" id="tinggi">
                     </div>
                     <!-- end -->
         
